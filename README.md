@@ -1,2 +1,2 @@
 # Java-LeetCode
-This is for java leetcode reviewing.
+本仓库用来保存leetcode高频题

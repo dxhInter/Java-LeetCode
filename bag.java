@@ -1,7 +1,4 @@
-import java.util.*;
 import java.lang.Math;
-import java.util.Arrays;
-
 public class bag{
     public static void main(String[] args) {
         int []weight={1,3,4};
