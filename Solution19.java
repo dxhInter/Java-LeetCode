@@ -2,7 +2,7 @@
  * @Author: dxhInter dxh0530@gmail.com
  * @Date: 2024-02-21 20:04:13
  * @LastEditors: dxhInter dxh0530@gmail.com
- * @LastEditTime: 2024-02-21 20:33:03
+ * @LastEditTime: 2024-02-21 20:35:13
  */
 class Solution19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
